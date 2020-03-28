@@ -1,1 +1,5 @@
-console.log('hello word');
+function greet(name){
+    console.log('Hello ' + name);
+    
+}
+greet('prashant')
